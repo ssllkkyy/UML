@@ -1,1 +1,57 @@
-<mxfile host="www.draw.io" modified="2019-12-09T00:57:37.198Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" version="12.3.8" etag="HIvsFJ6EtTtS8c_M2ZBG" type="github"><diagram id="P37CzVAU5h4CO-gfsLlj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-09T05:00:42.003Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="a-Ef841EeO3DZcdkktuE" version="12.3.8" type="github" pages="1">
+  <diagram id="P37CzVAU5h4CO-gfsLlj" name="Page-1">
+    <mxGraphModel dx="868" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-1" value="bankcom.com" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="360" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-2" value="butel.com" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="274" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="204" y="177" width="110" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-5" value="so库" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="264" y="237" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-6" value="http接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="194" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CfzRknbYk43TgQ5tsu0P-7" target="CfzRknbYk43TgQ5tsu0P-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="314" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-7" value="V114.com" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="274" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-8" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CfzRknbYk43TgQ5tsu0P-5" target="CfzRknbYk43TgQ5tsu0P-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="240" as="sourcePoint"/>
+            <mxPoint x="290" y="150" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-9" value="" style="endArrow=classic;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CfzRknbYk43TgQ5tsu0P-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="380" as="sourcePoint"/>
+            <mxPoint x="280" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-11" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-12" value="http" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="320" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-13" value="及直播上传" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="137" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="CfzRknbYk43TgQ5tsu0P-14" value="muipAPP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="226" width="70" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
