@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T01:22:37.171Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="3qerk4r-c7RA8DpxL6ut" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-18T01:29:24.201Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="nFZ-8I9JnKV0ruhME41A" version="12.4.3" type="github" pages="1">
   <diagram id="LY2yrGZ_zxD_O-VtdUtD" name="Page-1">
     <mxGraphModel dx="868" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,6 +183,52 @@
         </mxCell>
         <mxCell id="cywywEzososkVelHdlFO-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=28;exitDy=0;exitPerimeter=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cywywEzososkVelHdlFO-57" target="cywywEzososkVelHdlFO-57">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="267" y="485" width="10" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-61" value="" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="cywywEzososkVelHdlFO-60">
+          <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
+            <mxPoint x="72" y="495" as="sourcePoint"/>
+            <mxPoint x="152" y="495" as="targetPoint"/>
+            <mxPoint x="10" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-62" value="login（account,passwd）" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="468" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-63" value="" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=classic;startFill=1;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
+            <mxPoint x="70.5" y="548" as="sourcePoint"/>
+            <mxPoint x="271" y="548" as="targetPoint"/>
+            <mxPoint x="10" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-64" value="appid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="550" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="462" y="507" width="10" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-69" value="" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
+            <mxPoint x="277" y="508" as="sourcePoint"/>
+            <mxPoint x="466.5" y="507.5" as="targetPoint"/>
+            <mxPoint x="10" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-70" value="" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=classic;startFill=1;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
+            <mxPoint x="277" y="537" as="sourcePoint"/>
+            <mxPoint x="457.5" y="537" as="targetPoint"/>
+            <mxPoint x="10" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-71" value="login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="505" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-76" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 9.5pt&quot;&gt;channelid&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="70" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
