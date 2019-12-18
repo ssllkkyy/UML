@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T01:34:05.470Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="6rf0kDrc9R88ryGfUeYt" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-18T01:39:30.626Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36" etag="wIwZnmDkc-5f3v_9rbC3" version="12.4.3" type="github" pages="1">
   <diagram id="LY2yrGZ_zxD_O-VtdUtD" name="Page-1">
     <mxGraphModel dx="868" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
           <mxGeometry x="560" y="390" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="cywywEzososkVelHdlFO-77" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="266" y="597" width="10" height="65" as="geometry"/>
+          <mxGeometry x="266" y="597" width="10" height="153" as="geometry"/>
         </mxCell>
         <mxCell id="cywywEzososkVelHdlFO-78" value="" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="cywywEzososkVelHdlFO-77">
           <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
@@ -278,6 +278,46 @@
         </mxCell>
         <mxCell id="cywywEzososkVelHdlFO-87" value="直播&lt;br&gt;状态表" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
           <mxGeometry x="177" y="611.5" width="70" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-89" value="" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
+            <mxPoint x="73" y="689" as="sourcePoint"/>
+            <mxPoint x="268" y="689" as="targetPoint"/>
+            <mxPoint x="10" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-90" value="end（token,channelid）" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="133" y="662" width="110" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-91" value="" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=classic;startFill=1;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
+            <mxPoint x="71.5" y="742" as="sourcePoint"/>
+            <mxPoint x="272" y="742" as="targetPoint"/>
+            <mxPoint x="10" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-92" value="result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="741" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-93" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="463" y="701" width="10" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-94" value="" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
+            <mxPoint x="278" y="702" as="sourcePoint"/>
+            <mxPoint x="467.5" y="701.5" as="targetPoint"/>
+            <mxPoint x="10" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-95" value="" style="html=1;verticalAlign=bottom;endArrow=none;startArrow=classic;startFill=1;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="1" y="71" width="80" relative="1" as="geometry">
+            <mxPoint x="278" y="731" as="sourcePoint"/>
+            <mxPoint x="458.5" y="731" as="targetPoint"/>
+            <mxPoint x="10" y="1" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cywywEzososkVelHdlFO-96" value="end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="699" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
